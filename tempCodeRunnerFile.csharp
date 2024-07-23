@@ -1,0 +1,5 @@
+
+
+ALTER TABLE [User]
+ALTER COLUMN Id int IDENTITY(1,1) not null 
+GO
